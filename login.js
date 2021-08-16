@@ -4,7 +4,7 @@ document.getElementById('login-submit').addEventListener('click', function () {
     //get user password
     const passwordField = document.getElementById('user-password');
     const userPassword = passwordField.value;
-    if (userEmail == 'shontan@bap.com' && userPassword == 'secret')
+    if (userEmail == 'tasnim.mostari@yahoo.com' && userPassword == 'secret')
         window.location.href = 'banking.html';
 });
 
